@@ -24,7 +24,7 @@ exclude = [
 [tool.poetry.dependencies]
 python = "^3.10"
 Django = "^4.2.8"
-django-allauth = "^0.45.0"
+django-allauth = "^0.63.1"
 webauthn = "^0.4.7"
 
 [tool.poetry.dev-dependencies]
